@@ -1,0 +1,3 @@
+../Core/Src/wapper.cpp:10:6:void can_rx_callback(CAN_HandleTypeDef*)	16	static
+../Core/Src/wapper.cpp:14:6:void setup()	4	static
+../Core/Src/wapper.cpp:18:6:void loop()	4	static
