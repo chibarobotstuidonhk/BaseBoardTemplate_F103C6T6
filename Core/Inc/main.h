@@ -65,9 +65,6 @@ void Error_Handler(void);
 #define LED_YELLOW_GPIO_Port GPIOB
 
 /* USER CODE BEGIN Private defines */
-void can_rx_callback(CAN_HandleTypeDef *hcan);
-void setup();
-void loop();
 
 /* USER CODE END Private defines */
 
