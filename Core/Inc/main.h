@@ -36,7 +36,7 @@ extern "C" {
 
 /* Exported types ------------------------------------------------------------*/
 /* USER CODE BEGIN ET */
-extern CAN_HandleTypeDef hcan;
+
 /* USER CODE END ET */
 
 /* Exported constants --------------------------------------------------------*/

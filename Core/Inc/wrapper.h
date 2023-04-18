@@ -1,3 +1,3 @@
 #pragma once
 
-void mymain(void);
+void my_main(void);
