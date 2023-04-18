@@ -1,6 +1,6 @@
 #include <main.h>
 
-extern "C" void mymain()
+extern "C" void my_main()
 {
 	while(true)
 	{
